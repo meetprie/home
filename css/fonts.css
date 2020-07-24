@@ -1,0 +1,14 @@
+@font-face{
+	font-family: 'aqua';
+	src: url(../font/aqua.ttf);
+}
+
+@font-face{
+	font-family: 'GothamRounded-Medium';
+	src: url(../font/GothamRounded-Medium.otf);
+}
+
+@font-face{
+	font-family: 'JosefinSans-Regular';
+	src: url(../font/JosefinSans-Regular.ttf);
+}

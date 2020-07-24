@@ -1,0 +1,250 @@
+@media only screen and (max-width: 1200px) {
+    .teme {
+        padding: 25px 15px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .Mysite .header {
+        padding: 10px 0;
+        background-color: rgba(34, 34, 34, 0.8);
+    }
+    .logo img {
+        width: 100px;
+    }
+    .navbar-nav {
+        background-color: #000;
+        margin: 20px 0 30px;
+        text-align: center;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+    }
+    .nav-item {
+        margin: 5px 0;
+    }
+    .single_img {
+        margin: 40px 0;
+    }
+    .order {
+        order: 1;
+    }
+    .align-items-center {
+        align-items: inherit !important;
+    }
+    .follow-icon {
+        margin-top: 50px;
+    }
+    .hi {
+        padding-top: 130px;
+    }
+    .sec_heading h2 {
+        font-size: 45px;
+    }
+    .what_i_do img {
+        width: 70% !important;
+    }
+    .service_title {
+        font-size: 25px;
+    }
+    .bf-left::after,
+    .bf-left::before,
+    .bf-right::after,
+    .bf-right::before,
+    .my_life:before {
+        display: none;
+    }
+    .my_life:after {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+    .about_me:before,
+    .hi:before {
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+    .temes {
+        margin-top: 30px;
+        word-break: break-word;
+        box-shadow: 0 0 30px 0.1px rgba(94, 225, 241, 0.3);
+    }
+    .service-box {
+        margin-bottom: 30px;
+    }
+    .teme {
+        text-align: center;
+    }
+    .follow-icon ul li:nth-child(1) {
+        /*transform: rotate(0) skew(0);*/
+        /*-webkit-transform: rotate(0) skew(0);*/
+    }
+    .my_work_bg_image{
+        height: 220px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .about_me {
+        background-position: -40px 20px, -187px 42px, 370px -30px, 1550px -140px, 1970px -130px;
+    }
+    section {
+        padding: 40px 0;
+    }
+    .order {
+        order: inherit;
+    }
+    .single_img {
+        height: 500px;
+        overflow: hidden;
+    }
+    .profile_img {
+        width: 60% !important;
+    }
+    .mission_info,
+    .progress-block {
+        margin-top: 20px;
+    }
+    .progress-block {
+        margin-bottom: 50px;
+    }
+    .cd-intro h1 {
+        font-size: 35px;
+    }
+    .hi {
+        background-position: right;
+    }
+    .parallax-window {
+        background-image: url(../images/service_bg.jpg) !important;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    .sec_heading,
+    .teme i {
+        margin-bottom: 20px;
+    }
+    .copyright {
+        font-size: 15px;
+    }
+    .last_brand {
+        display: none !important;
+    }
+    .my_life {
+        -webkit-animation: inherit;
+        animation: inherit;
+    }
+    .teme {
+        padding: 20px 10px;
+    }
+    .testimonial_profile .text {
+        font-size: 16px;
+    }
+    .simple_name span {
+        font-size: 18px;
+    }
+    .portfolio_nav {
+        margin-bottom: 20px;
+    }
+    input:placeholder {
+        color: #fff !important;
+    }
+    .info-img h5 {
+        font-size: 10px;
+    }
+    .info-img span {
+        font-size: 15px;
+    }
+    .info-img {
+        bottom: 10px;
+        left: 10px;
+    }
+    .overlay .icon-img {
+        right: 20px;
+        top: 20px;
+        height: 30px;
+        width: 30px;
+        line-height: 33px;
+        font-size: 17px;
+    }
+    .filtr-item {
+        padding: 5px !important;
+    }
+    .temes i {
+        margin-right: 0;
+    }
+    .follow-icon ul li {
+        margin: 0 14px;
+    }
+    .placeholder-images {
+        position: absolute;
+        top: 170px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+    .preloader-img {
+        background-image: url(../images/loading2.gif);
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 300px;
+        width: 300px;
+        margin: 0 auto;
+        background-size: 440px 370px;
+    }
+    .follow-icon {
+        padding-bottom: 30px;
+    }
+}
+@media only screen and (max-width: 420px) {
+    .cd-intro h2 {
+        font-size: 37px;
+    }
+    .cd-intro h1 {
+        font-size: 30px;
+    }
+    .hi {
+        height: 100vh;
+    }
+    .single_img {
+        height: auto;
+    }
+    .follow-line {
+        font-size: 18px;
+    }
+    .follow-line:before {
+        width: 30px;
+        right: 16px;
+    }
+    .life-block p,
+    .life-block span,
+    .life-block title,
+    .life-block ul li {
+        font-size: 18px;
+    }
+    .life-block {
+        padding: 10px 10px !important;
+    }
+    .sm-m-0 {
+        padding-left: 1rem !important;
+    }
+    .life-block:before {
+        display: none;
+    }
+    .hobbys ul {
+        margin: 0 20px 0 0 !important;
+    }
+
+    .my_work_bg_image{
+        height: 100px;
+    }
+    .my-work{
+        margin-bottom: 15px;
+        padding: 5px;
+    }
+    .about_me {
+        /*background-position: 600px 30px, 583px 42px, -140px -30px, 1550px -140px, 1970px -130px;*/
+    }
+    .owl-nav{
+        display: none;
+    }
+    .testimonial_profile{
+        width: 100%;
+    }
+    .or {
+        margin: 0 1px;
+    }
+}
